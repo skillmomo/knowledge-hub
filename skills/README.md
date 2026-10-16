@@ -1,7 +1,7 @@
 # Skills
 
-这里整理可公开分享的实用技能、操作方法与工作流程，说明用途、使用步骤和适用场景。
+This directory collects practical skills, how-to guides, and workflows that can be shared publicly, with their purpose, steps, and suitable use cases.
 
-内容持续整理中。
+This collection is a work in progress.
 
-[返回主页](../README.md)
+[Back to home](../README.md)
