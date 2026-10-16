@@ -1,7 +1,7 @@
-# 知识书单
+# Reading Lists
 
-这里整理主题书单、阅读顺序与原创阅读笔记，可记录书名、作者、推荐理由和合法获取链接。
+This directory collects themed reading lists, suggested reading orders, and original reading notes. Entries may include the book title, author, reasons to read it, and links to lawful sources.
 
-内容持续整理中，不上传完整书籍。
+This collection is a work in progress. Full books are not uploaded.
 
-[返回主页](../README.md)
+[Back to home](../README.md)
