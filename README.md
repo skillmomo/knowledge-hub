@@ -1,11 +1,11 @@
-# 知识分享站
+# Knowledge Hub
 
-分享 Skills、知识书单与学习资料。
+A place to share skills, reading lists, and learning resources.
 
-## 内容导航
+## Explore
 
-- [Skills](skills/README.md)：实用技能与工作流程。
-- [知识书单](reading-lists/README.md)：主题书单与阅读笔记。
-- [学习资源](resources/README.md)：工具、课程与参考链接。
+- [Skills](skills/README.md): Practical skills and workflows.
+- [Reading Lists](reading-lists/README.md): Themed reading lists and reading notes.
+- [Learning Resources](resources/README.md): Tools, courses, and reference links.
 
-内容持续整理中。仅分享原创内容、合法引用与可公开的资源链接。
+This collection is a work in progress. Only original content, lawful quotations, and links to publicly shareable resources are included.
