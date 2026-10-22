@@ -6,7 +6,7 @@
 
 ## 中文
 
-给 AI 用的老子 skill。*一书一 skill · 02*
+给 AI 用的老子 skill。*一书一skill · 02*
 
 作者：skill整理员
 
@@ -38,7 +38,7 @@ AI 回答太长、改得太多、做出来太挤太吵的时候。常见说法�
 
 ## English
 
-A Laozi skill for AI. *One Book, One Skill (一书一 skill) · 02*
+A Laozi skill for AI. *One Book, One Skill (一书一skill) · 02*
 
 Author: skill整理员
 

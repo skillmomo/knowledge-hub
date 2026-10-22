@@ -6,7 +6,7 @@
 
 ## 中文
 
-给 AI 用的排版 skill。*一书一 skill · 05*
+给 AI 用的排版 skill。*一书一skill · 05*
 
 作者：skill整理员
 
@@ -41,7 +41,7 @@ AI 默认什么都想强调：加粗、变色、放大、加图标一起上，�
 
 ## English
 
-A typography skill for AI. *One Book, One Skill (一书一 skill) · 05*
+A typography skill for AI. *One Book, One Skill (一书一skill) · 05*
 
 Author: skill整理员
 

@@ -6,7 +6,7 @@
 
 ## 中文
 
-给 AI 用的小屋改造 skill。*一书一 skill · 06*
+给 AI 用的小屋改造 skill。*一书一skill · 06*
 
 作者：skill整理员
 
@@ -40,7 +40,7 @@ AI 默认爱「加东西」：一堆收纳盒、一盏更亮的灯、几样网�
 
 ## English
 
-A small-room makeover skill for AI. *One Book, One Skill (一书一 skill) · 06*
+A small-room makeover skill for AI. *One Book, One Skill (一书一skill) · 06*
 
 Author: skill整理员
 

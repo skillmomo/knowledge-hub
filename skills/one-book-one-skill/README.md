@@ -1,4 +1,4 @@
-# One Book, One Skill (一书一 skill)
+# One Book, One Skill (一书一skill)
 
 [中文](#中文) | [English](#english)
 

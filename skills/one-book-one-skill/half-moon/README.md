@@ -6,7 +6,7 @@
 
 ## 中文
 
-给 AI 用的日式美学 skill。*一书一 skill · 01*
+给 AI 用的日式美学 skill。*一书一skill · 01*
 
 作者：skill整理员
 
@@ -36,7 +36,7 @@
 
 ## English
 
-A Japanese-style aesthetics skill for AI. *One Book, One Skill (一书一 skill) · 01*
+A Japanese-style aesthetics skill for AI. *One Book, One Skill (一书一skill) · 01*
 
 Author: skill整理员
 

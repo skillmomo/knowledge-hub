@@ -6,7 +6,7 @@
 
 ## 中文
 
-给 AI 用的构图 skill。*一书一 skill · 03*
+给 AI 用的构图 skill。*一书一skill · 03*
 
 作者：skill整理员
 
@@ -41,7 +41,7 @@ AI 默认把所有东西做得一样清楚、一样亮、一样大，眼睛没�
 
 ## English
 
-A composition skill for AI. *One Book, One Skill (一书一 skill) · 03*
+A composition skill for AI. *One Book, One Skill (一书一skill) · 03*
 
 Author: skill整理员
 

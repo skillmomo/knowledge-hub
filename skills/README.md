@@ -10,7 +10,7 @@
 
 ### 系列
 
-- [一书一 skill](one-book-one-skill/README.md)：一次读一本书，做成一个给 AI 用的 skill。
+- [一书一skill](one-book-one-skill/README.md)：一次读一本书，做成一个给 AI 用的 skill。
 
 内容持续更新。
 
@@ -22,7 +22,7 @@ This directory collects practical skills, how-to guides, and workflows that can 
 
 ### Series
 
-- [One Book, One Skill (一书一 skill)](one-book-one-skill/README.md): one book at a time, distilled into a skill for AI.
+- [One Book, One Skill (一书一skill)](one-book-one-skill/README.md): one book at a time, distilled into a skill for AI.
 
 This collection is a work in progress.
 
