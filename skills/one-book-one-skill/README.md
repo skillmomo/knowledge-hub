@@ -19,6 +19,7 @@
 | 03 | [落点 Where the Eye Lands](where-the-eye-lands/README.md) | Ian Roberts《构图的艺术》 | 构图：图片、PPT、封面、照片、空间只留一个焦点 |
 | 05 | [字里行间 Between the Lines](between-the-lines/README.md) | Ellen Lupton《Thinking with Type》 | 排版：海报、PPT、页面、字幕的字与空白 |
 | 06 | [静屋 Quiet Room](quiet-room/README.md) | 《室内设计基础》《居所的匠心》 | 小屋改造：光、收纳、动线、颜色、借景 |
+| 14 | [一桌菜 A Good Table](a-good-table/README.md) | 袁枚《随园食单》 | 配菜：请客、一个人、给爸妈，一桌怎么搭、怎么上 |
 
 ### 怎么用
 
@@ -45,6 +46,7 @@ Author: skill整理员
 | 03 | [Where the Eye Lands (落点)](where-the-eye-lands/README.md) | Ian Roberts, *Mastering Composition* (《构图的艺术》) | Composition for images, slides, covers, photos, and spaces: one focal point |
 | 05 | [Between the Lines (字里行间)](between-the-lines/README.md) | Ellen Lupton, *Thinking with Type* | Typography for posters, slides, pages, and captions: type and the space around it |
 | 06 | [Quiet Room (静屋)](quiet-room/README.md) | 《室内设计基础》 (*Basics of Interior Design*) and 《居所的匠心》 (on Chinese dwellings) | Small-room makeovers: light, storage, path, color, borrowed view |
+| 14 | [A Good Table (一桌菜)](a-good-table/README.md) | Yuan Mei, 《随园食单》 (*Recipes from the Garden of Contentment*) | Menu planning: for guests, for one, for parents — what goes together and in what order |
 
 ### How to use
 
